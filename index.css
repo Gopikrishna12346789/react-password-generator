@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.box-1{
+    background-color: beige;
+    position: absolute;
+    top:100px;
+    width:500px;
+
+   margin-left: 200px;
+    
+}
+.box-2{
+    background-color:gray;
+    
+
+}
+.pass{
+    text-align: center;
+}
+
+button{
+    width:100px;
+    background-color: gold;
+    height:40px;
+    border-radius: 10px;
+    margin-left:auto;
+}
+.box-3{
+    background-color: green;
+    height:100px;
+    
+}
+.ran{
+    padding:10px;
+    border-radius: 10px;
+    margin:10px;
+    width:300px;
+}
+.ran2{
+    padding:10px;
+    border-radius: 10px;
+    margin:10px;
+    width:300px;
+}
